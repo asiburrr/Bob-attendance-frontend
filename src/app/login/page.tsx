@@ -109,7 +109,7 @@ export default function LoginPage() {
         </form>
 
         <div className="pt-2 text-center text-[11px] text-neutral-400 dark:text-neutral-500">
-          Protected by Hardware Telemetry &amp; Access Control
+
         </div>
       </div>
     </div>
